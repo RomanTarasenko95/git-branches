@@ -1,0 +1,4 @@
+3509fe4 Modify newfile.txt in main Merge
+56b333a Modify newfile.txt in main
+bf56103 Modify newfile.txt in branch2
+e9471ea add newfile.txt
